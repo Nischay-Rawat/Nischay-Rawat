@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Chat-App UI**
 
-- 👨‍💻 All of my projects are available at [nischay.live](nischay.live)
+- 👨‍💻 All of my projects are available at [nischayportfolio.netlify.app/](nischayportfolio.netlify.app)
 
 - 📫 How to reach me **nischayrawat100@gmail.com**
 
